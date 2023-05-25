@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "name": "Jane Doe",
+      "email": "jane@gmail.com",
+      "password": "123",
+      "isDoctor": "yes",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "slots": 2,
+      "fee": 150,
+      "id": 1
+    },
+    {
+      "name": "Mark Johnson",
+      "email": "mark@gmail.com",
+      "password": "123",
+      "isDoctor": "yes",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "slots": 1,
+      "fee": 100,
+      "id": 2
+    },
+    {
+      "username": "Raj",
+      "email": "raj@gmail.com",
+      "password": "123",
+      "isDoctor": "no",
+      "id": 3
+    }
+   
+  ]
+}
